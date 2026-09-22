@@ -1,6 +1,6 @@
 # 🏥 Sistema de Gestão de Clínica Médica (Grupo 4)
 
-Sistema de gerenciamento de clínica médica desenvolvido em linguagem **C** para o terminal. O projeto faz parte da Avaliação 1 (AV1) da disciplina de **Linguagem de Programação I (LP1)** do curso de Ciência da Computação / TI do **Instituto Federal do Ceará (IFCE) - Campus Tianguá**.
+Sistema de gerenciamento de clínica médica desenvolvido em linguagem **C** para o terminal. O projeto faz parte da Avaliação 1 (AV1) da disciplina de **Linguagem de Programação I (LP1)** do curso de Ciência da Computação / TI do **Instituto Federal do Ceará (IFCE)**.
 
 ---
 
