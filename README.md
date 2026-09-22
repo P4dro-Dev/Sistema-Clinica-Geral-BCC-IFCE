@@ -25,17 +25,22 @@ Sistema de gerenciamento de clínica médica desenvolvido em linguagem **C** par
 ## 🚀 Como Compilar e Executar
 
 ### 1. Pré-requisitos
+
 Certifique-se de ter um compilador C instalado na sua máquina (ex: GCC no Linux/Pop!_OS ou MinGW no Windows).
 
 ### 2. Compilação
 Abra o terminal no diretório do projeto e execute:
 
+```
 ``bash
 gcc -o clinica main.c
+```
 
 3. Execução
+   
 Após compilar, execute o programa:
 
+```
 Linux / macOS:
 
 Bash
@@ -44,6 +49,7 @@ Windows:
 
 DOS
 clinica.exe
+```
 
 ## 🗂️ Estrutura das Estruturas (Structs)
 Paciente
