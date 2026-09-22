@@ -7,10 +7,10 @@ Sistema de gerenciamento de clínica médica desenvolvido em linguagem **C** par
 ## 📌 Funcionalidades do Sistema
 
 - [x] **Cadastrar Paciente:** Registro de código, nome, idade e telefone. *(Desenvolvido por Pedro Henrique)*
-- [ ] **Cadastrar Médico:** Registro de código, nome e especialidade.
-- [ ] **Agendar Consulta:** Marcação de consulta vinculada a um médico, data e horário.
-- [ ] **Cancelar Consulta:** Desativação de uma consulta agendada.
-- [ ] **Busca de Paciente:** Localização e exibição dos dados dos pacientes cadastrados.
+- [x] **Cadastrar Médico:** Registro de código, nome e especialidade. *(Desenvolvido por Renan Mello)*
+- [x] **Agendar Consulta:** Marcação de consulta vinculada a um médico, data e horário.*(Desenvolvido por SolDhallas)*
+- [x] **Cancelar Consulta:** Desativação de uma consulta agendada. *(Desenvolvido por João Bernado)*
+- [x] **Busca de Paciente:** Localização e exibição dos dados dos pacientes cadastrados. *(Desenvolvido por Renan Mello, e Pedro Henrique*
 
 ---
 
@@ -72,4 +72,7 @@ João Bernardo
 ```
 
 🏢 Instituição
+
+```
 IFCE - Instituto Federal de Educação, Ciência e Tecnologia do Ceará
+```
