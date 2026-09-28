@@ -8,7 +8,7 @@ Sistema de gerenciamento de clínica médica desenvolvido em linguagem **C** par
 
 - [x] **Cadastrar Paciente:** Registro de código, nome, idade e telefone. *(Desenvolvido por Pedro Henrique)*
 - [x] **Cadastrar Médico:** Registro de código, nome e especialidade. *(Desenvolvido por Renan Mello)*
-- [x] **Agendar Consulta:** Marcação de consulta vinculada a um médico, data e horário.*(Desenvolvido por SolDhallas)*
+- [x] **Agendar Consulta:** Marcação de consulta vinculada a um médico, data e horário.*(Desenvolvido por SolDhallas e Lohan Fontenele)*
 - [x] **Cancelar Consulta:** Desativação de uma consulta agendada. *(Desenvolvido por João Bernado)*
 - [x] **Busca de Paciente:** Localização e exibição dos dados dos pacientes cadastrados. *(Desenvolvido por Renan Mello, e Pedro Henrique*
 
